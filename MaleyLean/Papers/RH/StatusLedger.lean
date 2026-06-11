@@ -11,7 +11,7 @@ def rhAuditPhase : String :=
   "RH prime-trace amplitude endpoint audit spine"
 
 def rhEndpointClosureSummary : String :=
-  "RH endpoint closure=100%; explicit-formula bridge boundary=semantic; analytic number theory first-principles formalization=not claimed"
+  "RH endpoint closure=100%; local and GitHub audits pass; explicit-formula bridge boundary=semantic; analytic number theory first-principles formalization=not claimed"
 
 def rhMainAnchors : List String := [
   "RHExplicitFormulaBridgeComplete",
@@ -29,6 +29,7 @@ def rhMainAnchors : List String := [
 def rhTruthBoundaryItems : List String := [
   "zeta/zero/explicit-formula carrier represented semantically",
   "AASC endpoint-use and no-independent-discriminator route checked",
+  "same standalone AASC audit pattern as P vs NP, BSD, and Poincare",
   "zero-free regions, density estimates, Hilbert-Polya, and numerical verification not used",
   "classical analytic references fix the carrier and explicit-formula vocabulary"
 ]
@@ -58,7 +59,7 @@ theorem rhEndpointClosureSummary_populated :
   rfl
 
 theorem rhTruthBoundaryItems_count_eq :
-    rhTruthBoundaryItems.length = 4 := by
+    rhTruthBoundaryItems.length = 5 := by
   rfl
 
 end StatusLedger

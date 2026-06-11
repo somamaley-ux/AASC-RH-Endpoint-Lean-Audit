@@ -10,6 +10,12 @@ working checkout.  It contains the reusable AASC foundation layer, the
 RH-specific prime-trace amplitude endpoint Lean audit module, focused axiom
 checks, and the manuscript-facing PDF/source snapshot.
 
+Public repository:
+https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit
+
+Current publication state: pushed to GitHub with passing audit workflow.  No
+GitHub release has been created yet.
+
 ## Result Claim
 
 The strongest truthful claim for this archive is:
@@ -17,6 +23,7 @@ The strongest truthful claim for this archive is:
 - `MaleyLean.Papers.RH.AuditRunners` builds in a standalone Lake project.
 - The reusable AASC foundation layer used by the route is included in the same
   repository.
+- The local audit script and GitHub Actions workflow both pass.
 - The RH endpoint route is mechanized at the proof-spine level:
   official endpoint-defeating counterexample force is endpoint use; off-line
   endpoint force projects through the explicit-formula bridge to non-neutral
@@ -29,6 +36,10 @@ The strongest truthful claim for this archive is:
   readout for every represented nontrivial zeta zero.
 - The active RH audit surface has no live project-level `axiom`, `sorry`,
   `admit`, or `unsafe` declaration.
+- The RH route follows the same standalone endpoint-audit pattern used for the
+  P vs NP, BSD, and Poincare archives: reusable AASC foundation, target-specific
+  semantic carrier, endpoint-use bridge, forbidden same-domain discriminator,
+  focused axiom checks, truth-boundary ledger, and manuscript-facing snapshot.
 
 This archive should be read as an AASC endpoint-structure audit for the RH
 prime-trace amplitude separator route, not as a full analytic-number-theory
@@ -55,6 +66,9 @@ The audit runner:
 - runs seven focused AASC/RH audit files, including the RH closure, status
   ledger, truth-boundary ledger, audit-runner, and full-stack AASC/RH axiom
   checks.
+
+The GitHub workflow `.github/workflows/audit.yml` runs the same audit on push,
+pull request, and manual dispatch.
 
 Pinned environment:
 
@@ -84,6 +98,13 @@ Hilbert--Polya programs, positivity criteria, or numerical verification.
 Those objects are represented by semantic audit carriers or external analytic
 standing so the AASC endpoint route can be checked at the same audit-spine
 standard used by the other endpoint repositories.
+
+Classical analytic number theory fixes the RH carrier and explicit-formula
+vocabulary.  The AASC proof work in this archive is the endpoint-role closure:
+official endpoint-defeating counterexample force becomes endpoint use, the
+prime-trace amplitude separator is the only surviving same-carrier negative
+endpoint role, and the reusable AASC no-independent-discriminator layer
+excludes that role.
 
 ## Layout
 
