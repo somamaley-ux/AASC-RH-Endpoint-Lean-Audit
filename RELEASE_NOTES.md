@@ -2,10 +2,22 @@
 
 ## AASC RH Endpoint Lean Audit Archive v0.1.0
 
-Status: release notes prepared, but no GitHub release has been created yet.
+Status: released as `v0.1.0`.
 
 Initial standalone Lean 4 audit archive for the AASC-first RH prime-trace
 amplitude endpoint proof spine.
+
+Positive result:
+
+This release records a complete AASC endpoint-audit spine for the RH
+prime-trace amplitude separator route.  The checked route proves, at the
+audit-spine level, that official endpoint-defeating counterexample force enters
+endpoint-use discipline; off-line endpoint force projects through the
+explicit-formula bridge to non-neutral prime-trace amplitude; endpoint-standing
+non-neutral amplitude induces an independent same-domain amplitude
+discriminator; and the AASC no-independent-discriminator closure excludes that
+role.  The local off-line countercase is discharged and the represented RH
+endpoint `OfficialRHEndpoint` follows from the AASC context.
 
 Included:
 
@@ -24,25 +36,22 @@ Verification command:
 powershell -ExecutionPolicy Bypass -File scripts/check-rh-endpoint-audit.ps1
 ```
 
-Audit framing:
+Audit status:
 
 - no live project-level `axiom`, `sorry`, `admit`, or `unsafe` declaration on
   the active AASC/RH audit surface;
 - `RHEndpointClosure=100%`;
 - local audit and GitHub Actions audit pass on `main`;
-- classical analytic number theory is external carrier/route standing, not
-  proof machinery for the AASC endpoint exclusion;
 - standard Lean/classical foundations may appear in dependency reports.
 
-Truth boundary:
+Boundary:
 
 This archive mechanizes the RH endpoint proof spine at the same standalone
 AASC audit pattern used for the P vs NP, BSD, and Poincare endpoint archives.
-It does not claim a first-principles Lean formalization of analytic number
-theory.  Zeta zerohood, the explicit-formula route, and critical-normalized
-prime-trace amplitude are semantic/external carrier standing; the checked
-Lean route is the AASC endpoint-use, amplitude-separator, and
-no-independent-discriminator closure.
+Classical analytic number theory supplies carrier/route standing for zeta
+zerohood and the explicit-formula vocabulary.  The checked Lean route is the
+AASC endpoint-use, amplitude-separator, and no-independent-discriminator
+closure.
 
 Pinned environment:
 

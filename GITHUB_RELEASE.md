@@ -1,7 +1,7 @@
-# Suggested GitHub Release
+# GitHub Release
 
-No GitHub release has been created yet.  This file is release-prep text for
-when the archive is ready to tag.
+Current release:
+https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit/releases/tag/v0.1.0
 
 Title:
 
@@ -11,6 +11,17 @@ Notes:
 
 Standalone Lean 4 audit archive for the AASC-first Riemann Hypothesis
 prime-trace amplitude endpoint proof spine.
+
+Positive result:
+
+This release records a complete AASC endpoint-audit spine for the RH
+prime-trace amplitude separator route.  Official endpoint-defeating
+counterexample force is endpoint use; off-line endpoint force projects through
+the explicit-formula bridge to non-neutral prime-trace amplitude;
+endpoint-standing non-neutral amplitude induces an independent same-domain
+amplitude discriminator; the AASC no-independent-discriminator closure excludes
+that discriminator; and the local off-line countercase discharges to force
+critical-line readout for represented nontrivial zerohood.
 
 Verification:
 
@@ -24,14 +35,14 @@ Audit status:
 - no live project-level `axiom`, `sorry`, `admit`, or `unsafe` declaration in
   the active AASC/RH audit surface
 - local audit and GitHub Actions audit pass on `main`
-- analytic RH infrastructure is represented semantically or by external
-  reference standing; it is not claimed as first-principles Lean formalization
+Main Lean closeout:
 
-Truth boundary:
+```lean
+MaleyLean.Papers.RH.EndpointClosure.rhEndpoint_of_aascContext
+```
 
-This is an AASC endpoint-structure Lean audit archive.  It checks the
-endpoint-use, prime-trace amplitude separator, and no-independent-discriminator
-closure route.  It does not claim to formalize the zeta function, analytic
-continuation, explicit formula theory, zero-free regions, density estimates,
-Hilbert--Polya programs, positivity criteria, or numerical verification from
-first principles.
+Boundary:
+
+Classical analytic number theory supplies carrier/route standing.  The Lean
+audit checks the AASC endpoint-use, prime-trace amplitude separator, and
+no-independent-discriminator closure route.

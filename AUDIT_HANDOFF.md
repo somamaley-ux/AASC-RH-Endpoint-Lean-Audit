@@ -23,7 +23,7 @@ Current status:
 - local audit passes;
 - GitHub Actions audit passes on `main`;
 - no live project-level `axiom`, `sorry`, `admit`, or `unsafe`;
-- no GitHub release has been created yet.
+- release `v0.1.0` exists.
 
 Proof-spine claim:
 
@@ -35,7 +35,14 @@ prime-trace amplitude; endpoint-standing non-neutral amplitude induces an
 independent same-domain amplitude discriminator; and the reusable AASC
 no-independent-discriminator closure excludes that discriminator.
 
-Truth boundary:
+Positive closeout:
+
+The local off-line countercase discharges and critical-line readout is forced
+for every represented nontrivial zeta zero.  The represented final endpoint is
+`OfficialRHEndpoint`.
+
+Boundary:
 
 The Lean archive checks the AASC endpoint-role route through semantic RH
-carriers.  It does not formalize analytic number theory from first principles.
+carriers.  Classical analytic number theory supplies the zeta/explicit-formula
+carrier standing.

@@ -13,10 +13,20 @@ checks, and the manuscript-facing PDF/source snapshot.
 Public repository:
 https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit
 
-Current publication state: pushed to GitHub with passing audit workflow.  No
-GitHub release has been created yet.
+Current publication state: pushed to GitHub, released as `v0.1.0`, and passing
+the audit workflow on `main`.
 
 ## Result Claim
+
+This archive records a complete AASC endpoint-audit spine for the RH
+prime-trace amplitude separator route.  In the audited route, official
+endpoint-defeating counterexample force is endpoint use; the explicit-formula
+bridge projects off-line endpoint force to non-neutral prime-trace amplitude;
+endpoint-standing non-neutral amplitude induces an independent same-domain
+amplitude discriminator; and the reusable AASC no-independent-discriminator
+closure excludes that discriminator.  The local off-line countercase therefore
+discharges, and critical-line readout is forced for every represented
+nontrivial zeta zero.
 
 The strongest truthful claim for this archive is:
 
@@ -41,12 +51,9 @@ The strongest truthful claim for this archive is:
   semantic carrier, endpoint-use bridge, forbidden same-domain discriminator,
   focused axiom checks, truth-boundary ledger, and manuscript-facing snapshot.
 
-This archive should be read as an AASC endpoint-structure audit for the RH
-prime-trace amplitude separator route, not as a full analytic-number-theory
-library.  Zeta zerohood, the explicit-formula route, and critical-normalized
-prime-trace amplitude are represented by explicit semantic carrier fields so
-the AASC closure route can be audited without importing a large external
-analytic formalization.
+The positive endpoint object is `OfficialRHEndpoint`.  The main Lean closeout
+anchor is `rhEndpoint_of_aascContext`, with the pointwise closeout
+`rhCriticalLineReadout_forced`.
 
 ## Verification
 
@@ -89,15 +96,7 @@ Pinned environment:
 - `rhCriticalLineReadout_forced`
 - `rhEndpoint_of_aascContext`
 
-## Truth Boundary
-
-This is an AASC endpoint-structure Lean audit archive.  It does not claim a
-first-principles Lean formalization of the zeta function, analytic
-continuation, the explicit formula, zero-free regions, density estimates,
-Hilbert--Polya programs, positivity criteria, or numerical verification.
-Those objects are represented by semantic audit carriers or external analytic
-standing so the AASC endpoint route can be checked at the same audit-spine
-standard used by the other endpoint repositories.
+## Boundary
 
 Classical analytic number theory fixes the RH carrier and explicit-formula
 vocabulary.  The AASC proof work in this archive is the endpoint-role closure:
@@ -105,6 +104,12 @@ official endpoint-defeating counterexample force becomes endpoint use, the
 prime-trace amplitude separator is the only surviving same-carrier negative
 endpoint role, and the reusable AASC no-independent-discriminator layer
 excludes that role.
+
+The archive does not claim a first-principles Lean formalization of analytic
+number theory.  Zeta zerohood, the explicit-formula route, and
+critical-normalized prime-trace amplitude are represented by semantic carrier
+fields so the AASC closure route can be checked at the same audit-spine
+standard used by the other endpoint repositories.
 
 ## Layout
 

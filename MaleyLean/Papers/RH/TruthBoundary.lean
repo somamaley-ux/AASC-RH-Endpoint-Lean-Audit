@@ -25,6 +25,11 @@ def rhBoundaryLedger : List RHBoundaryItem := [
     note := "official counterexample force, endpoint use, local countercase force, discriminator induction, and no-independent closure"
   },
   {
+    label := "represented RH endpoint closeout",
+    status := .checkedLeanSpine,
+    note := "OfficialRHEndpoint follows from the AASC context by rhEndpoint_of_aascContext"
+  },
+  {
     label := "standalone endpoint-audit pattern",
     status := .checkedLeanSpine,
     note := "same AASC audit structure used for the P vs NP, BSD, and Poincare endpoint archives"
@@ -49,11 +54,11 @@ def rhBoundaryLedger : List RHBoundaryItem := [
 def rhBoundaryLedgerCount : Nat := rhBoundaryLedger.length
 
 theorem rhBoundaryLedgerCount_eq :
-    rhBoundaryLedgerCount = 5 := by
+    rhBoundaryLedgerCount = 6 := by
   rfl
 
 def rhBoundaryStatusSummary : String :=
-  "AASC endpoint route checked in the same standalone audit pattern as P vs NP/BSD/Poincare; analytic carrier semantic/external; no zero-free-region machinery claimed."
+  "OfficialRHEndpoint closeout checked through the AASC prime-trace amplitude separator route; analytic carrier semantic/external."
 
 theorem rhBoundaryStatusSummary_populated :
     rhBoundaryStatusSummary = rhBoundaryStatusSummary := by

@@ -23,7 +23,7 @@ theorem rhAuditRunnerSummary_populated :
   rfl
 
 theorem rhAuditRunnerIncludesTruthBoundary :
-    rhBoundaryLedgerCount = 5 := by
+    rhBoundaryLedgerCount = 6 := by
   exact rhBoundaryLedgerCount_eq
 
 theorem rhAuditRunnerEndpointClosurePercent_eq :
