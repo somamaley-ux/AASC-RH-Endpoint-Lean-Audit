@@ -1,0 +1,11 @@
+import MaleyLean.Papers.RH.EndpointClosure
+
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhOfficialCounterexampleForce_endpointUse
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhNoAutonomousCounterexampleEndpointRole
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhOfficialCounterexampleForce_projects_to_amplitudeSeparator
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhAmplitudeSeparator_induces_independentDiscriminator
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhCounterexampleForce_impossible_of_noIndependentDiscriminator
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhLocalCountercase_impossible_of_noIndependentDiscriminator
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhCriticalLineReadout_forced
+#print axioms MaleyLean.Papers.RH.EndpointClosure.rhEndpoint_of_aascContext
+#eval MaleyLean.Papers.RH.EndpointClosure.RHEndpointClosurePercent
