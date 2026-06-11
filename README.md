@@ -13,8 +13,22 @@ checks, and the manuscript-facing PDF/source snapshot.
 Public repository:
 https://github.com/somamaley-ux/AASC-RH-Endpoint-Lean-Audit
 
-Current publication state: pushed to GitHub, released as `v0.1.0`, and passing
+Current publication state: pushed to GitHub, released as `v0.1.1`, and passing
 the audit workflow on `main`.
+
+## Published Manuscript Snapshot
+
+The manuscript snapshot under `papers/rh` is now the compressed
+no-autonomous-counterexample edition:
+
+`The_Riemann_Hypothesis_by_Exclusion_of_the_Prime_Trace_Amplitude_Separator.pdf`
+
+This edition front-loads the dependency lock that official endpoint-defeating
+counterexample force is theorem-bearing endpoint use, preserves the
+prime-trace amplitude separator proof spine, and includes the Lean4 RH endpoint
+audit appendix.  The accompanying `papers/rh/PACKAGE_README.md`,
+`papers/rh/PROJECT_MANIFEST.txt`, audit files, notes, and support ledgers are
+kept as the published source/audit package for this snapshot.
 
 ## Result Claim
 
@@ -130,9 +144,10 @@ fixed-carrier endpoint use, the target-specific negative/separator occupation,
 same-domain discriminator exclusion, and the final represented endpoint
 closeout.
 
-The classical zeta-zero, explicit-formula, critical-line, and prime-trace amplitude carrier and equivalence bridges are represented by
-named adequacy, standing, or bridge anchors matching the manuscript.  They are
-not claimed here as a full first-principles formalization of the surrounding
-classical subject.  The repo therefore should be read as a manuscript-faithful
-AASC endpoint mechanization, with explicit carrier-adequacy boundaries, rather
-than as a rebuilt-from-foundations formalization of the entire classical field.
+The classical zeta-zero, explicit-formula, critical-line, and prime-trace
+amplitude carrier and equivalence bridges are represented by named adequacy,
+standing, or bridge anchors matching the manuscript.  They are not claimed here
+as a full first-principles formalization of the surrounding classical subject.
+The repo therefore should be read as a manuscript-faithful AASC endpoint
+mechanization, with explicit carrier-adequacy boundaries, rather than as a
+rebuilt-from-foundations formalization of the entire classical field.

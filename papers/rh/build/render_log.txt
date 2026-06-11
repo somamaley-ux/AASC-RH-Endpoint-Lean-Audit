@@ -1,0 +1,1 @@
+Rendered 65 pages at 72 dpi with pdftoppm. Selected pages inspected: 1, 40, 46, 60, 65.

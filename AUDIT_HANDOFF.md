@@ -23,7 +23,7 @@ Current status:
 - local audit passes;
 - GitHub Actions audit passes on `main`;
 - no live project-level `axiom`, `sorry`, `admit`, or `unsafe`;
-- release `v0.1.0` exists.
+- release `v0.1.1` exists.
 
 Proof-spine claim:
 
@@ -41,11 +41,19 @@ The local off-line countercase discharges and critical-line readout is forced
 for every represented nontrivial zeta zero.  The represented final endpoint is
 `OfficialRHEndpoint`.
 
+Published manuscript snapshot:
+
+The `papers/rh` directory now carries the compressed
+no-autonomous-counterexample edition of the RH prime-trace amplitude separator
+paper.  This is the controlling manuscript snapshot for the archive, including
+the front-loaded dependency lock and Lean4 RH endpoint audit appendix.
+
 Boundary:
 
 The Lean archive checks the AASC endpoint-role route through semantic RH
 carriers.  Classical analytic number theory supplies the zeta/explicit-formula
 carrier standing.
+
 ## Manuscript-Faithful Mechanization Standard
 
 This repository is calibrated to the manuscript as the proof object.  The Lean
@@ -54,9 +62,10 @@ fixed-carrier endpoint use, the target-specific negative/separator occupation,
 same-domain discriminator exclusion, and the final represented endpoint
 closeout.
 
-The classical zeta-zero, explicit-formula, critical-line, and prime-trace amplitude carrier and equivalence bridges are represented by
-named adequacy, standing, or bridge anchors matching the manuscript.  They are
-not claimed here as a full first-principles formalization of the surrounding
-classical subject.  The repo therefore should be read as a manuscript-faithful
-AASC endpoint mechanization, with explicit carrier-adequacy boundaries, rather
-than as a rebuilt-from-foundations formalization of the entire classical field.
+The classical zeta-zero, explicit-formula, critical-line, and prime-trace
+amplitude carrier and equivalence bridges are represented by named adequacy,
+standing, or bridge anchors matching the manuscript.  They are not claimed here
+as a full first-principles formalization of the surrounding classical subject.
+The repo therefore should be read as a manuscript-faithful AASC endpoint
+mechanization, with explicit carrier-adequacy boundaries, rather than as a
+rebuilt-from-foundations formalization of the entire classical field.

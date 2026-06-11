@@ -1,0 +1,29 @@
+RH prime-trace amplitude Lean appendix project - defensive trim edition
+
+PROJECT_MANIFEST.txt	1277 bytes
+README.md	5153 bytes
+audit/anti_circularity_audit.md	3989 bytes
+audit/audit_checklist.md	3177 bytes
+audit/route_locus_exhaustion.md	3037 bytes
+audit/theorem_ladder.md	4564 bytes
+build.sh	1211 bytes
+build/RH_prime_trace_amplitude_frontloaded_dependency_lock_manuscript.pdf	755279 bytes
+build/RH_prime_trace_amplitude_no_autonomous_counterexample_manuscript.pdf	755279 bytes
+build/preflight.txt	173 bytes
+build/render_log.txt	88 bytes
+notes/counterexample_force_patch.md	2032 bytes
+notes/defensive_trim_patch.md	1472 bytes
+notes/equivalence_bridge_patch.md	602 bytes
+notes/frontloaded_dependency_lock_patch.md	606 bytes
+notes/lean_appendix_patch.md	667 bytes
+notes/native_counterforce_patch.md	1249 bytes
+notes/no_autonomous_counterexample_endpoint_role_patch.md	823 bytes
+notes/referee_positioning.md	1287 bytes
+src/main.tex	180279 bytes
+support/corpus_support_extract.csv	14366 bytes
+support/corpus_support_ledger.csv	43045 bytes
+support/corpus_support_ledger.md	33506 bytes
+support/corpus_support_selected.csv	83664 bytes
+support/corpus_support_table.tex	4437 bytes
+support/structural_ef_bridge_support.csv	48726 bytes
+support/structural_ef_bridge_support.md	19923 bytes

@@ -1,11 +1,21 @@
 # Release Notes
 
-## AASC RH Endpoint Lean Audit Archive v0.1.0
+## AASC RH Endpoint Lean Audit Archive v0.1.1
 
-Status: released as `v0.1.0`.
+Status: released as `v0.1.1`.
 
-Initial standalone Lean 4 audit archive for the AASC-first RH prime-trace
+Compression-update Lean 4 audit archive for the AASC-first RH prime-trace
 amplitude endpoint proof spine.
+
+Published manuscript snapshot:
+
+The `papers/rh` directory now carries the compressed
+no-autonomous-counterexample edition of
+`The_Riemann_Hypothesis_by_Exclusion_of_the_Prime_Trace_Amplitude_Separator`.
+This is the controlling manuscript snapshot for the archive.  It preserves the
+prime-trace amplitude separator proof spine, front-loads the dependency lock
+for official endpoint-defeating counterexample force, and includes the Lean4 RH
+endpoint audit appendix.
 
 Positive result:
 
@@ -65,9 +75,10 @@ fixed-carrier endpoint use, the target-specific negative/separator occupation,
 same-domain discriminator exclusion, and the final represented endpoint
 closeout.
 
-The classical zeta-zero, explicit-formula, critical-line, and prime-trace amplitude carrier and equivalence bridges are represented by
-named adequacy, standing, or bridge anchors matching the manuscript.  They are
-not claimed here as a full first-principles formalization of the surrounding
-classical subject.  The repo therefore should be read as a manuscript-faithful
-AASC endpoint mechanization, with explicit carrier-adequacy boundaries, rather
-than as a rebuilt-from-foundations formalization of the entire classical field.
+The classical zeta-zero, explicit-formula, critical-line, and prime-trace
+amplitude carrier and equivalence bridges are represented by named adequacy,
+standing, or bridge anchors matching the manuscript.  They are not claimed here
+as a full first-principles formalization of the surrounding classical subject.
+The repo therefore should be read as a manuscript-faithful AASC endpoint
+mechanization, with explicit carrier-adequacy boundaries, rather than as a
+rebuilt-from-foundations formalization of the entire classical field.
