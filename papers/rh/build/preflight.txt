@@ -1,5 +1,5 @@
 PDF: build/RH_prime_trace_amplitude_no_autonomous_counterexample_manuscript.pdf
-Pages: 65
+Pages: 73
 Encrypted: False
 Openable (PyMuPDF): True
 Likely scanned: False

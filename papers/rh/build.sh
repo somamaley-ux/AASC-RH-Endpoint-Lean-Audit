@@ -7,7 +7,6 @@ rm -f main.aux main.toc main.out main.log main.pdf main.fls main.fdb_latexmk
 # First pass may emit auxiliary warnings on a fresh tree; it still writes aux/toc.
 pdflatex -interaction=nonstopmode main.tex >/tmp/rh_counterexample_force_pass1.log 2>&1 || true
 pdflatex -interaction=nonstopmode -halt-on-error main.tex
-pdflatex -interaction=nonstopmode -halt-on-error main.tex
 RAW="$ROOT/build/RH_prime_trace_amplitude_no_autonomous_counterexample_manuscript_raw.pdf"
 OUT="$ROOT/build/RH_prime_trace_amplitude_no_autonomous_counterexample_manuscript.pdf"
 cp main.pdf "$RAW"

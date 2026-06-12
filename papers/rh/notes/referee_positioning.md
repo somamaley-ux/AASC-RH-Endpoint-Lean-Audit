@@ -5,7 +5,7 @@ This manuscript is written in a hostile-referee posture. The intended attack poi
 
 ## Counterexample-force positioning
 
-The latest patch moves the final hostile dispute to act-level endpoint use. A raw off-line zero is allowed as content. Ordinary theoremhood of a negative branch is allowed as theoremhood. The manuscript claims that when the off-line branch is offered as a same-carrier counterexample force against the official RH-EF endpoint, the act fixes the endpoint-use features and therefore falls under kernel/A+/ATS/UEAP discipline.
+This edition moves the final hostile dispute to act-level endpoint use. A raw off-line zero is allowed as content. Ordinary theoremhood of a negative branch is allowed as theoremhood. The manuscript claims that when the off-line branch is offered as a same-carrier counterexample force against the official RH-EF endpoint, the act fixes the endpoint-use features and therefore falls under kernel/A+/ATS/UEAP discipline.
 
 ## Final denial fork
 

@@ -1,1 +1,1 @@
-Rendered 65 pages at 72 dpi with pdftoppm. Selected pages inspected: 1, 40, 46, 60, 65.
+Rendered selected pages for hardening audit: 3, 8, 18, 20, 23, 29, 41, 42, 43, 44, 61. Build completed with ./build.sh.

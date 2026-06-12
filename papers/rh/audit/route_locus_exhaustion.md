@@ -1,45 +1,22 @@
-# Route-Locus Exhaustion
+# RH-EF route-locus collapse audit
 
-Every endpoint-resolving negative RH-EF route is classified as one of: coordinate-only report, explicit-formula support, endpoint amplitude separator, symmetry orbit, pairing/cancellation route, spectral surrogate, positivity criterion, numerical verification, density estimate, zero-free region, carrier shift, repair, or hidden fifth role. The main manuscript's expanded route-locus table gives each disposition.
+The hardened manuscript uses a finite route-locus collapse audit for same-carrier off-line endpoint use.  A route that resolves or defeats the RH-EF endpoint must enter at least one locus below; otherwise it does no endpoint work.
 
-## Bridge-fork route-locus refinement
-
-| Route | Meaning | Disposition |
+| Locus | Route | Collapse |
 |---|---|---|
-| Bridge completion | EF route supplies same-zero endpoint-neutral order | Positive route; yields critical-line readout |
-| Domain shift | Branch leaves same zero, route, normalization, carrier, or endpoint image | Not the fixed RH-EF endpoint |
-| Independent amplitude discriminator | Non-neutral order remains endpoint-standing on the same carrier | Excluded by A+ no-independent closure |
-
-This prevents a direct jump from non-neutral amplitude to contradiction. Non-neutral order is lawful until it is used with endpoint-standing counterforce and survives neither bridge completion nor domain shift.
-
-
-## Native Counterforce Route-Locus Addendum
-
-A proposed native same-carrier off-line amplitude falsification must occupy one of the following route loci:
-
-- bridge-neutralized endpoint contribution;
-- support-only analytic content;
-- bookkeeping/native description with no endpoint force;
-- domain or endpoint-interface shift;
-- independent amplitude discriminator.
-
-No fifth native-falsification role is admitted.
+| L1 | Coordinate report (`beta != 1/2`) | Raw/support unless endpoint-used; endpoint-used coordinate report projects to non-neutral amplitude. |
+| L2 | Explicit-formula support (`x^rho/rho`, `x^(beta-1/2)`, `ord_1/2(rho) != 0`) | Support unless overreported; endpoint-standing use enters `O_nat(rho)` / `Damp`. |
+| L3 | Pairing and cancellation | Bridge-neutralized if complete; support/bookkeeping otherwise; domain/interface shift if same-zero identity or endpoint image changes; `Damp` if used as independent endpoint-status work. |
+| L4 | Smoothing and truncation | Skin if presentation-only; support if analytic; tensor/carrier shift if endpoint role changes. |
+| L5 | Spectral surrogate / Hilbert-Polya route | Support or bridge program unless bridged to the same-zero EF carrier. |
+| L6 | Positivity criterion | Support/bridge unless it yields critical-neutral readout on the fixed carrier. |
+| L7 | Numerical verification | Finite support unless universal bridge supplied. |
+| L8 | Density estimate | Support unless it supplies universal pointwise critical-line readout. |
+| L9 | Partial zero-free region | Scoped bridge completion only; no universal transfer without scope coverage. |
+| L10 | Carrier, route, or normalization shift | Domain/interface shift unless bridged back. |
+| L11 | Repair | New bridge-complete act; no same-act repair. |
+| L12 | Endpoint classifier | Bookkeeping, governance-equivalence, domain/interface shift, or `Damp`. |
+| L13 | Hidden fifth/sixth native role | Collapses through the expanded `O_nat(rho)` native-falsification theorem chain. |
 
 
-## Counterexample-force route-locus addendum
-
-| Locus | RH-EF form | Disposition |
-|---|---|---|
-| Bare counterexample content | `A_zeta(rho) and not Lcrit(rho)` as raw proposition | Lawful raw content; not endpoint use. |
-| Ordinary counterexample theoremhood | Proof of the off-line branch as theoremhood | Kernel-internal theoremhood; not automatically the discriminator. |
-| Official counterexample force | Off-line branch offered as official endpoint-defeating counterexample | Endpoint use; enters A+ and native-counterforce exhaustion. |
-| Local counterexample force | Exact-complement assumption used to block critical-line readout | Local endpoint use; triggers local A+ closure without becoming global negative endpoint outcome. |
-| Counterexample-force denial | Claimed endpoint-defeating use while refusing endpoint-use status | Must exhibit a fixed-carrier official counterexample act lacking endpoint-use features. |
-
-## No-autonomous-counterexample route refinement
-
-| Locus | Role | Disposition |
-|---|---|---|
-| Endpoint-defeating counterexample use | Branch offered to settle the official endpoint negatively | Endpoint use; kernel/A+ applies. |
-| Claimed autonomous negative endpoint force | Endpoint-defeating force while refusing endpoint use | Excluded by no-autonomous-counterexample endpoint-role theorem. |
-| Negative branch without endpoint use | Raw content, support, bookkeeping, ordinary theoremhood, or local syntax | Lawful but not endpoint-defeating. |
+Final closure: pairing/cancellation is not treated as an autonomous fifth endpoint role.  Endpoint-effective cancellation is lawful only as support, bridge-complete neutralization, bookkeeping, carrier/interface shift, or `Damp`-inducing endpoint-status work.
